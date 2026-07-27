@@ -1,0 +1,7 @@
+names:
+  0: person
+  1: vest
+  2: helmet
+path: C:\Users\jtjsh\OneDrive\Desktop\Sundry\创新创业实训2\datasets_formatted
+train: images/train
+val: images/val
